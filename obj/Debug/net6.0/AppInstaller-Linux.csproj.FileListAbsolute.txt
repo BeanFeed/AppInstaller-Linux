@@ -1,0 +1,15 @@
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.csproj.AssemblyReference.cache
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.AssemblyInfoInputs.cache
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.AssemblyInfo.cs
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.csproj.CoreCompileInputs.cache
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Debug/net6.0/AppInstaller-Linux
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Debug/net6.0/AppInstaller-Linux.deps.json
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Debug/net6.0/AppInstaller-Linux.runtimeconfig.json
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Debug/net6.0/AppInstaller-Linux.dll
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Debug/net6.0/AppInstaller-Linux.pdb
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.dll
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/refint/AppInstaller-Linux.dll
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.pdb
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/AppInstaller-Linux.genruntimeconfig.cache
+/home/austind/Code/C#/Programs/AppInstaller-Linux/obj/Debug/net6.0/ref/AppInstaller-Linux.dll
