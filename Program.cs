@@ -70,7 +70,7 @@ class Program {
             ln.StartInfo.ArgumentList.Add("/usr/share/applications/" + name + ".desktop");
             ln.StartInfo.UseShellExecute = true;
             ln.Start();
-        } catch(err) {Console.WriteLine(name + ".desktop Is Already In /usr/share/applications");}
+        } catch(Exception e) {Console.WriteLine(name + ".desktop Is Already In /usr/share/applications");}
         File.Move(arg, Path.Join(installLoc, arg));
         try 
         {
@@ -82,7 +82,7 @@ class Program {
             ln.StartInfo.UseShellExecute = true;
             ln.Start();
         }
-        catch(err){Console.WriteLine(arg + " Is Already In /usr/bin");}
+        catch(Exception e){Console.WriteLine(arg + " Is Already In /usr/bin");}
         
         File.Copy(icon, Path.Join(installLoc, GetFileName(icon)));
         
