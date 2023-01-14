@@ -51,15 +51,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[7.0.1, 7.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Crossgen2.linux-x64",
-              "version": "[7.0.1, 7.0.1]"
+              "version": "[7.0.2, 7.0.2]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[7.0.1, 7.0.1]"
+              "version": "[7.0.2, 7.0.2]"
+            },
+            {
+              "name": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[7.0.2, 7.0.2]"
             }
           ],
           "frameworkReferences": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

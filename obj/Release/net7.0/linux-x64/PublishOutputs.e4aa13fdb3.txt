@@ -1,0 +1,2 @@
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Release/net7.0/linux-x64/publish/AppInstaller-Linux
+/home/austind/Code/C#/Programs/AppInstaller-Linux/bin/Release/net7.0/linux-x64/publish/AppInstaller-Linux.pdb

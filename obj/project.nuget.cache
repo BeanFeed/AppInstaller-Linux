@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4yyvX0qGORNr2T+WFrm1LzEHltGvFC4PrX7GBGgLXsTbQ3PRWp4ExX1c1DTcTpgUD6a/s5ofFKplcOi2bpAG5w==",
+  "dgSpecHash": "Vi1FgQt10pwMihQqfxr78Of2AgpovbdVk1urPeEwRYMLOx9nL450+dxs7qhXkm9hwC9ji2ltSDEJXI92vrenQA==",
   "success": true,
   "projectFilePath": "/home/austind/Code/C#/Programs/AppInstaller-Linux/AppInstaller-Linux.csproj",
   "expectedPackageFiles": [
-    "/home/austind/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.1/microsoft.netcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
-    "/home/austind/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.1/microsoft.aspnetcore.app.runtime.linux-x64.7.0.1.nupkg.sha512",
-    "/home/austind/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/7.0.1/microsoft.netcore.app.crossgen2.linux-x64.7.0.1.nupkg.sha512"
+    "/home/austind/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.2/microsoft.netcore.app.runtime.linux-x64.7.0.2.nupkg.sha512",
+    "/home/austind/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.2/microsoft.aspnetcore.app.runtime.linux-x64.7.0.2.nupkg.sha512",
+    "/home/austind/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/7.0.2/runtime.linux-x64.microsoft.dotnet.ilcompiler.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
