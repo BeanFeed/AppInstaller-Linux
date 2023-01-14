@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Diagnostics;
+﻿using System.Diagnostics;
 namespace AppInstaller;
 
 class Program {
@@ -17,6 +14,8 @@ class Program {
         "Icon="
 
     };
+
+
     static void Main(string[] args) {
         if(!Environment.OSVersion.ToString().Contains("Unix")) { Console.WriteLine("This OS isn't supported. This program was made for Unix and the Linux File System."); return; }
         string envPath = Environment.CurrentDirectory;

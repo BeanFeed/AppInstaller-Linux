@@ -6,9 +6,7 @@
     <RootNamespace>AppInstaller_Linux</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PublishSingleFile>true</PublishSingleFile>
-    <SelfContained>true</SelfContained>
-    <PublishReadyToRun>true</PublishReadyToRun>
+    <PublishAot>true</PublishAot>
   </PropertyGroup>
 
 </Project>
